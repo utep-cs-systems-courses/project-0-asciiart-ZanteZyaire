@@ -25,8 +25,8 @@ int main()
       print_square(5, 5);
       break;
     case 'a':
-      puts("You selected arrow:")
-	print_arrow();
+      puts("You selected arrow:");
+      print_arrow();
       break;
     case 'c':
       puts("You selected chars:");
